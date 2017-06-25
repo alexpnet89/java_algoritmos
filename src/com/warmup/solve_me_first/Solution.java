@@ -1,15 +1,11 @@
-package com.exercicios.solve_me_first;
+package com.warmup.solve_me_first;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
 
-    static int solveMeFirst(int a, int b) {
+    private static int solveMeFirst(int a, int b) {
         return a+b;
     }
 

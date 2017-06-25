@@ -1,14 +1,10 @@
-package com.exercicios.compare_the_triplets;
+package com.warmup.compare_the_triplets;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
-    static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
+    private static int[] solve(int a0, int a1, int a2, int b0, int b1, int b2){
         // Complete this function
 
         int pontosA = 0;

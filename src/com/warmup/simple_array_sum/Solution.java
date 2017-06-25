@@ -1,14 +1,10 @@
-package com.exercicios.simple_array_sum;
+package com.warmup.simple_array_sum;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
-    static int simpleArraySum(int n, int[] ar) {
+    private static int simpleArraySum(int n, int[] ar) {
 
         int resultado;
         resultado = 0;

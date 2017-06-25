@@ -1,14 +1,10 @@
-package com.exercicios.com.exercicios.a_very_big_sum;
+package com.warmup.a_very_big_sum;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
-    static long aVeryBigSum(int n, long[] ar) {
+    private static long aVeryBigSum(int n, long[] ar) {
 
         long result;
         result = 0;
