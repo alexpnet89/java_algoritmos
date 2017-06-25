@@ -7,7 +7,6 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Digite a quantidade de elementos do array: ");
         int n = in.nextInt();
         int a[][] = new int[n][n];
         int somaL = 0;
@@ -15,7 +14,6 @@ public class Solution {
 
         for(int i=0; i < n; i++){
             for(int j=0; j < n; j++){
-                System.out.println("Digite um numero para formar a matriz: ");
                 a[i][j] = in.nextInt();
                 if(i == j){
                     somaL = somaL + a[i][j];

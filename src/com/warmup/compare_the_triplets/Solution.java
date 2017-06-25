@@ -40,17 +40,11 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("Digite a nota do criterio 1 para o participante 1: ");
         int a0 = in.nextInt();
-        System.out.println("Digite a nota do criterio 2 para o participante 1: ");
         int a1 = in.nextInt();
-        System.out.println("Digite a nota do criterio 3 para o participante 1: ");
         int a2 = in.nextInt();
-        System.out.println("Digite a nota do criterio 1 para o participante 2: ");
         int b0 = in.nextInt();
-        System.out.println("Digite a nota do criterio 2 para o participante 2: ");
         int b1 = in.nextInt();
-        System.out.println("Digite a nota do criterio 3 para o participante 2: ");
         int b2 = in.nextInt();
 
         int[] result = solve(a0, a1, a2, b0, b1, b2);

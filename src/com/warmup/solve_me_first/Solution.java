@@ -14,15 +14,13 @@ public class Solution {
         Scanner in = new Scanner(System.in);
 
         int a;
-        System.out.println("Digite o primeiro numero da soma: ");
         a = in.nextInt();
 
         int b;
-        System.out.println("Digite o primeiro segundo da soma: ");
         b = in.nextInt();
 
         int sum;
         sum = solveMeFirst(a, b);
-        System.out.println("A soma ficou: " + sum);
+        System.out.println(sum);
     }
 }
