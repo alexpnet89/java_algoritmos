@@ -1,0 +1,1 @@
+Esse repositório contém problemas com algoritmos resolvidos com a linguagem java, utilizando os operadores lógicos, operadores de comparação, comandos para controle de fluxo, estruturas de repetição e arrays.
