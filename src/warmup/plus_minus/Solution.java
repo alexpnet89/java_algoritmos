@@ -1,10 +1,6 @@
-package com.warmup.plus_minus;
+package warmup.plus_minus;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 

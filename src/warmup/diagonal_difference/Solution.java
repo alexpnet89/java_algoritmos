@@ -1,4 +1,4 @@
-package com.warmup.diagonal_difference;
+package warmup.diagonal_difference;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.warmup.compare_the_triplets;
+package warmup.compare_the_triplets;
 
 import java.util.*;
 

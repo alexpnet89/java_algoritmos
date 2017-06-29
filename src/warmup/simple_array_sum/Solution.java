@@ -1,4 +1,4 @@
-package com.warmup.simple_array_sum;
+package warmup.simple_array_sum;
 
 import java.util.*;
 

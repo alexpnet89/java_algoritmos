@@ -1,4 +1,4 @@
-package com.warmup.a_very_big_sum;
+package warmup.a_very_big_sum;
 
 import java.util.*;
 

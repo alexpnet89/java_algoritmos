@@ -1,4 +1,4 @@
-package com.warmup.solve_me_first;
+package warmup.solve_me_first;
 
 import java.util.*;
 
