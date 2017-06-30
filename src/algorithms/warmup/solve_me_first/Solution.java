@@ -1,4 +1,4 @@
-package warmup.solve_me_first;
+package algorithms.warmup.solve_me_first;
 
 import java.util.*;
 

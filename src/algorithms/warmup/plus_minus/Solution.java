@@ -1,4 +1,4 @@
-package warmup.plus_minus;
+package algorithms.warmup.plus_minus;
 
 import java.util.*;
 

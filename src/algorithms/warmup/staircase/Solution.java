@@ -1,4 +1,4 @@
-package warmup.staircase;
+package algorithms.warmup.staircase;
 
 import java.util.*;
 
